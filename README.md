@@ -1,6 +1,6 @@
 # weather_app
 
-A new Flutter project.
+ Weather App is a sleek Flutter application that provides real-time and forecasted weather updates for major cities around the world. Stay informed with hourly forecasts, temperature, humidity, wind speed, and more — all in one intuitive interface.
 
 ## Getting Started
 
